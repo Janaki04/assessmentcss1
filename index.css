@@ -1,0 +1,52 @@
+.heading1
+{
+    color: red
+}
+.heading2
+{
+    color: orangered;
+     font-style: italic;
+}
+.lists
+{
+    color:rgb(131, 5, 5);
+    font-size:20px ;
+    font-style: inherit ;
+}
+.lists2
+{
+    color:rgb(138, 4, 4);
+    letter-spacing:6px; 
+    font-size: 20px; 
+    font-style: normal ;
+}
+.para
+{
+    color:#cf8607;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+}
+.color
+{
+    background-color: yellow;
+}
+#link
+{
+    color: darkred;
+    text-decoration-line: none;
+    font-style: italic;
+    font-size: larger;
+}
+.style
+{
+    font-style: italic;
+     text-decoration-line: underline;
+     text-decoration-color: darkblue;
+}
+.line
+{
+    text-decoration-line: line-through;
+    text-decoration-color:red;
+}
+
